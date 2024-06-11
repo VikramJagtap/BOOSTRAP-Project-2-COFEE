@@ -1,0 +1,179 @@
+body {
+  background-color: #292E31;
+}
+
+a {
+  text-decoration: none;
+}
+
+header img {
+  width: 100px;
+}
+
+h1 {
+  font-size: 70px;
+}
+
+.div-color h2 {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.border-bottom {
+  border:  #C78B40;
+}
+
+.div-color{
+  background-color: #212628;
+}
+
+.second-div i{
+  font-size: 50px;
+  color: #C78B40;
+}
+
+.second-div p {
+  color: #ffffff50;
+}
+
+.second-div .border {
+  background-color: #212628;
+}
+
+.third-div h2{
+  font-size: 60px;
+}
+
+.third-div h3 {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.second {
+  background-image: url(../images/illustration/roasted-coffee-beans-and-ground-coffee-in-filter-holder-e1674625433641.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.second i {
+  font-size: 50px;
+  color: #C78B40;
+}
+
+.second .row {
+  border: 1px solid #ffffff50;
+}
+
+.second .text-center {
+  background-color: #212628;
+  border-right: #ffffff50;
+}
+
+
+
+.third h2 , span{
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.third i {
+  font-size: 50px;
+  color: #C78B40;
+}
+
+.fourth span {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.fourth p {
+  color: #ffffff50;
+}
+
+.fourth h2 {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.fourth h1 {
+  font-size: 50px;
+}
+
+.fifth h1 {
+  font-size: 40px;
+}
+
+.fifth h2 {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.fifth {
+  background-color: #212628;
+}
+
+.six h2{
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.seven {
+  background-image: url(../images/illustration/roasted-coffee-beans-and-ground-coffee-in-filter-holder-1-e1674626024527.jpg);
+  background-size: cover;
+}
+
+.seven .container {
+  background-color: #212628;
+  border: 2px solid #ffffff50;
+}
+
+.seven img {
+  width: 70px;
+  border-radius: 50%;
+  border: 4px solid #C78B40;
+}
+
+.seven h2{
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.seven p {
+  font-size: 22px;
+}
+
+.eight h2 {
+  font-size: 20px;
+  color: #C78B40;
+}
+
+.eight h4 {
+  color: #ffffff50;
+  font-size: 20px;
+}
+
+.eight h3:hover  {
+  color: #C78B40;
+}
+
+.nine img {
+  width: 200px;
+}
+
+.nine button {
+  background: transparent;
+  color: #fff;
+}
+
+.nine button:hover {
+  background-color: #C78B40;
+}
+
+
+
+@media (min-width : 768px){
+  
+.third .imag {
+  width: 120px;
+}
+}
